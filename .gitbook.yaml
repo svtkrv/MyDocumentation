@@ -2,5 +2,5 @@ root: ./
 
 redirects:  
     previous-page: new-page/new-page-2.md
-    previous-page-2: new-page
+    previous-page-3: new-page
     previous-page-2/previous-nested-page-2: new-page/new-page-2.md
