@@ -1,6 +1,6 @@
 root: ./
 
 redirects:  
-    previous-page: new-page/new-page2.md
+    previous-page: new-page/new-page-2.md
     previous-page-2: new-page/README.md
-    previous-page-2/previous-nested-page-2: new-page/new-page2.md
+    previous-page-2/previous-nested-page-2: new-page/new-page-2.md
